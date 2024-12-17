@@ -123,7 +123,7 @@ Now you find an error you need to fix in your existing data - in the Salesperson
 
 Create **`update.sql`** to update your existing data.
 
-In addition, you also find a duplicated car entry for VIN `DAM41UDN3CHU2WVF6`. 2You want to delete car ID #4 from the database. Create **`delete.sql`** to perform the deletion.
+In addition, you also find a duplicated car entry for VIN `DAM41UDN3CHU2WVF6`. You want to delete car ID #4 from the database. Create **`delete.sql`** to perform the deletion.
 
 ## Deliverables
 
